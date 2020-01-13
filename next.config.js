@@ -7,7 +7,7 @@ const CompressionPlugin = require('compression-webpack-plugin');
  *****************************************************************************/
 
 // Set base path if your static app does not start from root
-const basePath = ''; // '/spa-github-page-template'
+const basePath = '/demo-frontend-content'; // '/spa-github-page-template'
 
 // Set any other dynamic routes in pages
 const dynamicRoutes = {
