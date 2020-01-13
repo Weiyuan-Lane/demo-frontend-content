@@ -11,9 +11,6 @@ const basePath = ''; // '/spa-github-page-template'
 
 // Set any other dynamic routes in pages
 const dynamicRoutes = {
-  // Pointing `/cute-cats` path to `pages/cats.js`
-  // `pages/cats.js` will also serve `/cats` path 
-  '/cute-cats': { page: '/cats' },
 }
 
 /*****************************************************************************
